@@ -6,7 +6,7 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
 - Algumas disciplinas não possuem aulas práticas e, portanto, não terão repositórios específicos.  
 - Este repositório será atualizado conforme o andamento do curso.  
 ## 📁 Disciplinas
-
+* [Download Matriz Curricular do Bacharelado](https://www.colaboraread.com.br/aluno/boletim/download-matriz-curricular/3895288401)
 <table border="1">
    <tr> <td colspan="3" align="center"> <i>1° Semestre </i></td> </tr>
    <tr> <td>Disciplina</td> <td>CH</td> <td align="center"> Nota Final</td>  </tr>
@@ -75,6 +75,5 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
 <tr> <td colspan="3" align="center"> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Template-UNOPAR" target="_blank"> Template em LaTeX para relatórios das aulas práticas </td> </tr>
 </table>
 
-* [Matriz Curricular do bacharelado](https://www.colaboraread.com.br/aluno/boletim/download-matriz-curricular/3895288401)
 
 
