@@ -11,20 +11,20 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
 <table border="1">
    <tr> <td colspan="3" align="center"> <i>1° Semestre </i></td> </tr>
    <tr> <td>Disciplina</td> <td>CH</td> <td align="center"> Nota Final</td>  </tr>
-   <tr> <td> <a href="x" target="_blank"> ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES </a></td> <td align="center"> 60</td>  <td align="center"> 10</td> </tr>
+   <tr> <td> ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES </td> <td align="center"> 60</td>  <td align="center"> 10</td> </tr>
    <tr> <td> DIREITO CIBERNÉTICO </td> <td align="center">60</td> <td align="center"> 8.5</td> </tr>
    <tr> <td> EMPREENDEDORISMO E INOVAÇÃO</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
-   <tr> <td> <a href="x" target="_blank"> ENGENHARIA, CIÊNCIA E TECNOLOGIA </a></td> <td align="center">60</td> <td align="center"> 9</td> </tr>
-   <tr> <td>GESTÃO DO CONHECIMENTO E DA TECNOLOGIA DA INFORMAÇÃO</td> <td align="center">80</td> <td align="center"> 8</td> </tr>
-   <tr> <td> <a href="x" target='_blank'> SISTEMAS OPERACIONAIS </a> </td> <td align="center">60</td> <td align="center"> 10</td> </tr>
+   <tr> <td> ENGENHARIA, CIÊNCIA E TECNOLOGIA </td> <td align="center">60</td> <td align="center"> 9</td> </tr>
+   <tr> <td> GESTÃO DO CONHECIMENTO E DA TECNOLOGIA DA INFORMAÇÃO</td> <td align="center">80</td> <td align="center"> 8</td> </tr>
+   <tr> <td> <a href="https://docs.google.com/document/d/1crMjTVgTO-Pmj7ZaU21qBVKsTZjleK8S/edit?usp=drive_link&ouid=114457480144665556428&rtpof=true&sd=true" target='_blank'> SISTEMAS OPERACIONAIS </a> </td> <td align="center">60</td> <td align="center"> 10</td> </tr>
    <tr> <td align="right">Total CH</td> <td colspan="2" align="center">360</td>   </tr>
 
    <tr> <td colspan="3" align="center"> <i>2° Semestre </i> </td> </tr>
-   <tr> <td> <a href='x' target="_blank"> ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA  </a> </td> <td align="center">60</td> <td align="center">10 </td> </tr>
+   <tr> <td> <a href='https://drive.google.com/file/d/1-aoOTO8dUP6N0fEKijr6SCdi-3e0v1aK/view?usp=drive_link' target="_blank"> ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA  </a> </td> <td align="center">60</td> <td align="center">10 </td> </tr>
    <tr> <td> ANÁLISE E MODELAGEM DE SISTEMAS  </td> <td align="center">60</td> <td align="center"> 8,5 </td> </tr>
    <tr> <td> FUNDAMENTOS DE CÁLCULO APLICADO </td> <td align="center">60</td> <td align="center"> 9,9 </td> </tr>
-   <tr> <td> <a href='x' target="_blank"> LINGUAGEM DE PROGRAMAÇÃO </a> </td> <td align="center">60</td> <td align="center"> 9,0 </td> </tr>
-   <tr> <td> LÓGICA E MATEMÁTICA COMPUTACIONAL </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> LINGUAGEM DE PROGRAMAÇÃO </td> <td align="center">60</td> <td align="center"> 9,0 </td> </tr>
+   <tr> <td> <a href='https://drive.google.com/file/d/1L5SwqP3hV8sC5qoC-qgYdc0yJgJuLG-B/view?usp=drive_link' target="_blank"> LÓGICA E MATEMÁTICA COMPUTACIONAL </a> </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td> SOCIEDADE BRASILEIRA E CIDADANIA </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">360</td> </tr>
 
