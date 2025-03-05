@@ -11,19 +11,19 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
 <table border="1">
    <tr> <td colspan="3" align="center"> <i>1° Semestre </i></td> </tr>
    <tr> <td>Disciplina</td> <td>CH</td> <td align="center"> Nota Final</td>  </tr>
-   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Algoritimo-e-Programacao-Estruturada" target="_blank"> ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES </a></td> <td align="center"> 60</td>  <td align="center"> 10</td> </tr>
-   <tr> <td> <a href="https://drive.google.com/file/d/1kIGYZ-T_6q31R_UBrF2lBIL73hqszqzU/view?usp=sharing" target="_blanl"> DIREITO CIBERNÉTICO </a></td> <td align="center">60</td> <td align="center"> 8.5</td> </tr>
+   <tr> <td> <a href="x" target="_blank"> ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES </a></td> <td align="center"> 60</td>  <td align="center"> 10</td> </tr>
+   <tr> <td> <a href="x" target="_blanl"> DIREITO CIBERNÉTICO </a></td> <td align="center">60</td> <td align="center"> 8.5</td> </tr>
    <tr> <td>EMPREENDEDORISMO E INOVAÇÃO</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
-   <tr> <td> <a href="https://drive.google.com/file/d/1eIlfl4jvaAUEhpHYzVtZfRWxdcStJRyL/view?usp=sharing" target="_blank"> ENGENHARIA, CIÊNCIA E TECNOLOGIA </a></td> <td align="center">60</td> <td align="center"> 9</td> </tr>
+   <tr> <td> <a href="x" target="_blank"> ENGENHARIA, CIÊNCIA E TECNOLOGIA </a></td> <td align="center">60</td> <td align="center"> 9</td> </tr>
    <tr> <td>GESTÃO DO CONHECIMENTO E DA TECNOLOGIA DA INFORMAÇÃO</td> <td align="center">80</td> <td align="center"> 8</td> </tr>
-   <tr> <td> <a href="https://drive.google.com/file/d/1oZt-NeLX1gIwYpNcHqTeIHQTFJBx5nOV/view?usp=sharing" target='_blank'> SISTEMAS OPERACIONAIS </a> </td> <td align="center">60</td> <td align="center"> 10</td> </tr>
+   <tr> <td> <a href="x" target='_blank'> SISTEMAS OPERACIONAIS </a> </td> <td align="center">60</td> <td align="center"> 10</td> </tr>
    <tr> <td align="right">Total CH</td> <td colspan="2" align="center">360</td>   </tr>
 
    <tr> <td colspan="3" align="center"> <i>2° Semestre </i> </td> </tr>
-   <tr> <td> <a href='https://drive.google.com/file/d/1vH8hA4ycbjM8Cv680ZIf1Og0MkmHwEcw/view?usp=sharing' target="_blank"> ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA  </a> </td> <td align="center">60</td> <td align="center">10 </td> </tr>
+   <tr> <td> <a href='x' target="_blank"> ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA  </a> </td> <td align="center">60</td> <td align="center">10 </td> </tr>
    <tr> <td> ANÁLISE E MODELAGEM DE SISTEMAS  </td> <td align="center">60</td> <td align="center"> 8,5 </td> </tr>
    <tr> <td> FUNDAMENTOS DE CÁLCULO APLICADO </td> <td align="center">60</td> <td align="center"> 9,9 </td> </tr>
-   <tr> <td> <a href='https://drive.google.com/file/d/13BeCm5WZ6xepmXQARdatZiK2mfst9URA/view?usp=sharing' target="_blank"> LINGUAGEM DE PROGRAMAÇÃO </a> </td> <td align="center">60</td> <td align="center"> 9,0 </td> </tr>
+   <tr> <td> <a href='x' target="_blank"> LINGUAGEM DE PROGRAMAÇÃO </a> </td> <td align="center">60</td> <td align="center"> 9,0 </td> </tr>
    <tr> <td> LÓGICA E MATEMÁTICA COMPUTACIONAL </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td> SOCIEDADE BRASILEIRA E CIDADANIA </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">360</td> </tr>
@@ -73,11 +73,3 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
    <tr> <td> TESTES E MANUTENÇÃO DE SOFTWARE </td> <td align="center"> 60 </td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td align="right"> Total CH </td> <td colspan="2" align="center"> 520 </td> </tr>
 </table>
-
-
-
-<tr> <td colspan="3" align="center"> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Template-UNOPAR" target="_blank"> Template em LaTeX para relatórios das aulas práticas </td> </tr>
-</table>
-
-
-
