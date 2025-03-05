@@ -5,16 +5,17 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
 ## 📌 Observações  
 - Algumas disciplinas não possuem aulas práticas e, portanto, não terão repositórios específicos.  
 - Este repositório será atualizado conforme o andamento do curso.  
-### Disciplinas
+## 📁 Disciplinas
 
 <table border="1">
    <tr> <td colspan="3" align="center"> <i>1° Semestre </i></td> </tr>
    <tr> <td>Disciplina</td> <td>CH</td> <td align="center"> Nota Final</td>  </tr>
-   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Algoritimo-e-Programacao-Estruturada" target="_blank">  ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA </a></td> <td align="center"> 80</td>  <td align="center"> 10</td> </tr>
-   <tr> <td> <a href="https://drive.google.com/file/d/1kIGYZ-T_6q31R_UBrF2lBIL73hqszqzU/view?usp=sharing" target="_blanl"> ANÁLISE E MODELAGEM DE SISTEMAS</a></td> <td align="center">80</td> <td align="center"> 10</td> </tr>
+   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Algoritimo-e-Programacao-Estruturada" target="_blank">  Gestão Do Conhecimento E Da Tecnologia Da Informação </a></td> <td align="center"> 80</td>  <td align="center"> 10</td> </tr>
+   <tr> <td> <a href="https://drive.google.com/file/d/1kIGYZ-T_6q31R_UBrF2lBIL73hqszqzU/view?usp=sharing" target="_blanl"> Direito Cibernético </a></td> <td align="center">8,5</td> <td align="center"> 10</td> </tr>
    <tr> <td>ENGENHARIA DE SOFTWARE</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
-   <tr> <td> <a href="https://drive.google.com/file/d/1eIlfl4jvaAUEhpHYzVtZfRWxdcStJRyL/view?usp=sharing" target="_blank"> LINGUAGEM DE PROGRAMAÇÃO</a></td> <td align="center">80</td> <td align="center"> 10</td> </tr>
-   <tr> <td>LÓGICA COMPUTACIONAL</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
+   <tr> <td> <a href="https://drive.google.com/file/d/1eIlfl4jvaAUEhpHYzVtZfRWxdcStJRyL/view?usp=sharing" target="_blank"> Sistemas Operacionais
+ </a></td> <td align="center">10</td> <td align="center"> 10</td> </tr>
+   <tr> <td> Empreendedorismo E Inovação </td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td> <a href="https://drive.google.com/file/d/1oZt-NeLX1gIwYpNcHqTeIHQTFJBx5nOV/view?usp=sharing" target='_blank'>SISTEMAS OPERACIONAIS</a> </td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td align="right">Total CH</td> <td colspan="2" align="center">480</td>   </tr>
 
