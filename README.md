@@ -7,6 +7,7 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
 - Este repositório será atualizado conforme o andamento do curso.  
 ## 📁 Disciplinas
 * [Download Matriz Curricular do Bacharelado](https://www.colaboraread.com.br/aluno/boletim/download-matriz-curricular/3895288401)
+* ### Carga Horária (CH)
 <table border="1">
    <tr> <td colspan="3" align="center"> <i>1° Semestre </i></td> </tr>
    <tr> <td>Disciplina</td> <td>CH</td> <td align="center"> Nota Final</td>  </tr>
