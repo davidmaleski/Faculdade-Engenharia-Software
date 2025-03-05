@@ -1,4 +1,4 @@
-# 🎓 Engenharia de Software - Anhnaguera EAD (Curitiba/PR)
+# 🎓 Engenharia de Software - Anhnaguera (Curitiba/PR)
    - Criado por <a href="https://github.com/davidmaleski"> @davidmaleski </a>
 Repositório destinado ao armazenamento de codificações e relatórios das unidades curriculares do **Bacharelado em Engenharia de Software** na modalidade **EAD** pelo polo Anhanguera de **Curitiba/PR**.
 
