@@ -29,12 +29,12 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">360</td> </tr>
 
    <tr> <td colspan="3" align="center"> <i>3° Semestre </i> </td> </tr>
-   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Computacao-em-nuvem-UNOPAR" target="_blank">  ANÁLISE ORIENTADA A OBJETOS </a> </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
+   <tr> <td> ANÁLISE ORIENTADA A OBJETOS  </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> ENGENHARIA DE REQUISITOS  </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> ENGENHARIA DE SOFTWARE </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/gerenciaBanco" target="_blank"> MODELAGEM DE DADOS </a> </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/database_and_data_development" target="_blank"> PROJETO DE EXTENSÃO I - ENGENHARIA DE SOFTWARE </a> </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/neuralPerceptron" target="_blank"> SISTEMAS DE COMPUTAÇÃO E DE INFORMAÇÃO </a> </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
+   <tr> <td> MODELAGEM DE DADOS  </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
+   <tr> <td> PROJETO DE EXTENSÃO I - ENGENHARIA DE SOFTWARE  </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
+   <tr> <td> SISTEMAS DE COMPUTAÇÃO E DE INFORMAÇÃO </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">520 </td> </tr>
 
    <tr> <td colspan="3" align="center"> <i>4° Semestre </i> </td> </tr>
@@ -65,12 +65,12 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
    <tr> <td align="right"> Total CH </td> <td colspan="2" align="center"> 360 </td> </tr>
 
    <tr> <td colspan="3" align="center"> <i>7° Semestre </i> </td> </tr>
-   <tr> <td> DESENVOLVIMENTO DE E-COMMERCE COM CMS </td> <td align="center"> 60 </td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> DESENVOLVIMENTO MOBILE </td> <td align="center"> 60 </td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> INTELIGÊNCIA ARTIFICIAL </td> <td align="center"> 60 </td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> PROJETO DE EXTENSÃO III - ENGENHARIA DE SOFTWARE </td> <td align="center"> 220 </td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> SEGURANÇA EM ENGENHARIA DE SOFTWARE </td> <td align="center"> 60 </td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> TESTES E MANUTENÇÃO DE SOFTWARE </td> <td align="center"> 60 </td> <td align="center"> CURSANDO </td> </tr>
+   <tr> <td> DESENVOLVIMENTO DE E-COMMERCE COM CMS </td> <td align="center"> 60 </td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> DESENVOLVIMENTO MOBILE </td> <td align="center"> 60 </td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> INTELIGÊNCIA ARTIFICIAL </td> <td align="center"> 60 </td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> PROJETO DE EXTENSÃO III - ENGENHARIA DE SOFTWARE </td> <td align="center"> 220 </td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> SEGURANÇA EM ENGENHARIA DE SOFTWARE </td> <td align="center"> 60 </td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> TESTES E MANUTENÇÃO DE SOFTWARE </td> <td align="center"> 60 </td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td align="right"> Total CH </td> <td colspan="2" align="center"> 520 </td> </tr>
 </table>
 
