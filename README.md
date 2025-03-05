@@ -12,8 +12,8 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
    <tr> <td colspan="3" align="center"> <i>1° Semestre </i></td> </tr>
    <tr> <td>Disciplina</td> <td>CH</td> <td align="center"> Nota Final</td>  </tr>
    <tr> <td> <a href="x" target="_blank"> ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES </a></td> <td align="center"> 60</td>  <td align="center"> 10</td> </tr>
-   <tr> <td> <a href="x" target="_blanl"> DIREITO CIBERNÉTICO </a></td> <td align="center">60</td> <td align="center"> 8.5</td> </tr>
-   <tr> <td>EMPREENDEDORISMO E INOVAÇÃO</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
+   <tr> <td> DIREITO CIBERNÉTICO </td> <td align="center">60</td> <td align="center"> 8.5</td> </tr>
+   <tr> <td> EMPREENDEDORISMO E INOVAÇÃO</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td> <a href="x" target="_blank"> ENGENHARIA, CIÊNCIA E TECNOLOGIA </a></td> <td align="center">60</td> <td align="center"> 9</td> </tr>
    <tr> <td>GESTÃO DO CONHECIMENTO E DA TECNOLOGIA DA INFORMAÇÃO</td> <td align="center">80</td> <td align="center"> 8</td> </tr>
    <tr> <td> <a href="x" target='_blank'> SISTEMAS OPERACIONAIS </a> </td> <td align="center">60</td> <td align="center"> 10</td> </tr>
@@ -29,7 +29,7 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">360</td> </tr>
 
    <tr> <td colspan="3" align="center"> <i>3° Semestre </i> </td> </tr>
-   <tr> <td> ANÁLISE ORIENTADA A OBJETOS  </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
+   <tr> <td>  <a href='https://docs.google.com/document/d/1crMjTVgTO-Pmj7ZaU21qBVKsTZjleK8S/edit?usp=drive_link&ouid=114457480144665556428&rtpof=true&sd=true' target="_blank"> ANÁLISE ORIENTADA A OBJETOS </a>  </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> ENGENHARIA DE REQUISITOS  </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> ENGENHARIA DE SOFTWARE </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> MODELAGEM DE DADOS  </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
