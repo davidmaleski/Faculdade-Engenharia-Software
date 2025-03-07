@@ -88,7 +88,6 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
         <td align="right"><strong>Total CH</strong></td>
         <td colspan="2" align="center">360</td>
     </tr>
-
     <tr>
         <td colspan="3" align="center"><i>3° Semestre</i></td>
     </tr>
@@ -126,7 +125,6 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
         <td align="right"><strong>Total CH</strong></td>
         <td colspan="2" align="center">520</td>
     </tr>
-
     <tr>
         <td colspan="3" align="center"><i>4° Semestre</i></td>
     </tr>
@@ -164,7 +162,6 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
         <td align="right"><strong>Total CH</strong></td>
         <td colspan="2" align="center">360</td>
     </tr>
-
     <tr>
         <td colspan="3" align="center"><i>5° Semestre</i></td>
     </tr>
@@ -202,7 +199,6 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
         <td align="right"><strong>Total CH</strong></td>
         <td colspan="2" align="center">520</td>
     </tr>
-
     <tr>
         <td colspan="3" align="center"><i>6° Semestre</i></td>
     </tr>
@@ -240,7 +236,6 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
         <td align="right"><strong>Total CH</strong></td>
         <td colspan="2" align="center">360</td>
     </tr>
-
     <tr>
         <td colspan="3" align="center"><i>7° Semestre</i></td>
     </tr>
