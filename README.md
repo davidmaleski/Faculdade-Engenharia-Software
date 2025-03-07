@@ -6,7 +6,7 @@ Repositório destinado ao armazenamento de codificações e relatórios das unid
 - Algumas disciplinas não possuem aulas práticas e, portanto, não terão repositórios específicos.  
 - Este repositório será atualizado conforme o andamento do curso.  
 ## 📁 Disciplinas
-* <a href="https://blog.anhanguera.com/engenharia-de-software-faculdade/#1o_Semestre_360h](https://drive.google.com/file/d/1iMnIWu4O3ZeLK44DukZsbdVN9pryL3P7/view?usp=sharing" target="_blank">Matriz Curricular do Bacharelado</a>
+* [Matriz Curricular do Bacharelado](https://drive.google.com/file/d/1iMnIWu4O3ZeLK44DukZsbdVN9pryL3P7/view?usp=sharing)
 * Carga Horária (CH)
 <table border="1">
    <tr> <td colspan="3" align="center"> <i>1° Semestre </i></td> </tr>
